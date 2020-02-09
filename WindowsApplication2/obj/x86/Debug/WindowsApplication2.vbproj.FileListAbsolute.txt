@@ -1,0 +1,169 @@
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication1.pdb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication1.xml
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\sergio\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+F:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+I:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+I:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+I:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+I:\Probando mysql\WindowsApplication2\bin\Debug\Interop.MSFlexGridLib.dll
+I:\Probando mysql\WindowsApplication2\bin\Debug\AxInterop.MSFlexGridLib.dll
+F:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+F:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+F:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+F:\Probando mysql\WindowsApplication2\bin\Debug\Interop.MSFlexGridLib.dll
+F:\Probando mysql\WindowsApplication2\bin\Debug\AxInterop.MSFlexGridLib.dll
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_main.resources
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_alumno.resources
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_pais.resources
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_localidad.resources
+E:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Probando mysql\WindowsApplication2\bin\Debug\Interop.MSFlexGridLib.dll
+E:\Probando mysql\WindowsApplication2\bin\Debug\AxInterop.MSFlexGridLib.dll
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_buscoeliminomodifico.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_carrera.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_pais.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_localidad.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_main.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_alumno.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_provincia.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_buscoeliminomodifico.resources
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_carrera.resources
+F:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication1.frm_provincia.resources
+D:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Probando mysql\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Probando mysql\WindowsApplication2\bin\Debug\Interop.MSFlexGridLib.dll
+D:\Probando mysql\WindowsApplication2\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_buscoeliminomodifico.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_carrera.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_pais.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_localidad.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_main.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_alumno.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_provincia.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Probando mysql\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_buscoeliminomodifico.resources
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_carrera.resources
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_pais.resources
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_localidad.resources
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_main.resources
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_alumno.resources
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_provincia.resources
+I:\Probando mysql\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\Interop.MSFlexGridLib.dll
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\AxInterop.MSFlexGridLib.dll
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_buscoeliminomodifico.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_carrera.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_pais.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_localidad.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_main.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_alumno.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_provincia.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Programacion 3 - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ITEC\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+E:\ITEC\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+E:\ITEC\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+E:\ITEC\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+E:\ITEC\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\ITEC\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\ITEC\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\ITEC\3er cuatrimestre\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\ITEC\3er cuatrimestre\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+D:\ITEC\3er cuatrimestre\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+D:\ITEC\3er cuatrimestre\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+D:\ITEC\3er cuatrimestre\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\ITEC\3er cuatrimestre\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\ITEC\3er cuatrimestre\Programacion 3\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\Interop.MSFlexGridLib.dll
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\Interop.MSFlexGridLib.dll
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\AxInterop.MSFlexGridLib.dll
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_buscoeliminomodifico.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_carrera.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_pais.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_localidad.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_main.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_alumno.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.frm_provincia.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+D:\ITEC PROGRAMACION\Trabajos de Programacion\visual basic\Agenda - Trabajo practico 4 - Sergio Posse - 2012\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
